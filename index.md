@@ -11,7 +11,7 @@ The most interesting topic covered this quarter is using LLMs to categorize tran
 With our categorization model trained, we can now move on to predicting the probability of the default score. We would also have to look at the inflow database to look at income flow.
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
-Quarter 1 is more about categorization of transactions. In quarter 2, we would look more into prediction of the actual credit risk.
+Quarter 1 is more about categorization of transactions. In quarter 2, we would look more into prediction of the actual credit risk, potentially we could also compare this to the accuracy of the FICO score which is the system most people are using right now.
 
 **What other techniques would you be interested in using in your project?**  
 We have trained the baseline model using logistic regression and TFIDF as well as an LLM model so far. It would be interesting to see if we can also compare it with other LLM models like Bert and FinBert to see if there's a difference in test accuracy.
